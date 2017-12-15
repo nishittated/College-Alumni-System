@@ -5,7 +5,7 @@
 Download from here: https://github.com/nishittated/College-Alumni-System
 
 # Tool/IDE Used: Microsoft Visual Studio 2012
-# Database: ADO .NET
+# Database: ADO.NET
 
 # Developed By: Nishit Tated
 
