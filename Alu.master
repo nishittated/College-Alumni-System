@@ -1,0 +1,120 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Alu.master.cs" Inherits="Alu" %>
+
+<!DOCTYPE html PUBLIC "-/x`/W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+<title>Alumni Association</title>
+        <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="css/coin-slider.css" />
+<script type="text/javascript" src="js/cufon-yui.js"></script>
+<script type="text/javascript" src="js/cufon-georgia.js"></script>
+<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+<script type="text/javascript" src="js/coin-slider.min.js"></script>
+</head>
+<body>
+    <form id="form1" runat="server">
+    
+<div class="main">
+  <div class="header">
+    <div class="header_resize">
+      <div class="menu_nav">
+        <ul>
+          <li><a href="AlumniHome.aspx"><span>Notice Board</span></a></li>
+          <li><a href="Event1.aspx"><span>Events</span></a></li>
+          <li><a href="Job.aspx"><span>Jobs</span></a></li>
+         
+          <li><a href="OldRegister1.aspx"><span>Alumni Registration</span></a></li>
+          
+
+        </ul>
+      </div>
+      <div class="logo">
+        <h1><a href="index.html">Alumni<span>Pro</span></a></h1>
+      </div>
+      <div class="clr"></div>
+      <div class="slider">
+        <div id="coin-slider"> <a href="#"><img src="images/slide1.jpg" width="960" height="360" alt="" /> </a> <a href="#"><img src="alu.jpg" width="960" height="360" alt="" /> </a> <a href="#"><img src="images/slide3.jpg" width="960" height="360" alt="" /></a> </div>
+        <div class="clr"></div>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+  <div class="content">
+          <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+
+    <div class="content_resize">
+      <div class="mainbar">
+        <div class="article">
+          <h2><span>Glimpse</span> For Alumni Association</h2>
+          <p class="infopost">Posted <span class="date">on 18 April 2017</span> by <a href="#">Admin</a> &nbsp;&nbsp; </p>
+          <div class="clr"></div>
+          <div class="img"><img src="images/img1.jpg" width="178" height="185" alt="" class="fl" /></div>
+          <div class="post_content">
+            <p class="spec"><a href="#" class="rm">Read more</a> <a href="#" class="com">Comments <span>11</span></a></p>
+          </div>
+          <div class="clr"></div>
+        </div>
+        
+        <p class="pages"><small>Page 1 of 2</small> <span>1</span> <a href="#">2</a> <a href="#">&raquo;</a></p>
+      </div>
+      <div class="sidebar">
+        <div class="searchform">
+         
+        </div>
+        <div class="clr"></div>
+        <div class="gadget">
+          <h2 class="star"><span>Sidebar</span> Menu</h2>
+          <div class="clr"></div>
+          <ul class="sb_menu">
+            <li><a href="#">Home</a></li>
+            <li><a href="Event1.aspx">Events</a></li>
+            <li><a href="OldRegister1.aspx">Alumni Registration</a></li>
+            <li><a href="Job.aspx">Jobs</a></li>
+           
+          </ul>
+        </div>
+        
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+  <div class="fbg">
+    <div class="fbg_resize">
+      <div class="col c1">
+        <h2><span>Image</span> Gallery</h2>
+        <a href='#'><img src="images1.png" width="75" height="75" alt="" class="gal" /></a> <a href="#"><img src="images2.png" width="75" height="75" alt="" class="gal" /></a> <a href="#"><img src="images3.png" width="75" height="75" alt="" class="gal" /></a> <a href="#"><img src="images4.jpg" width="75" height="75" alt="" class="gal" /></a> <a href="#"><img src="images5.jpg" width="75" height="75" alt="" class="gal" /></a> </div>
+      
+      <div class="col c3">
+        <h2><span>Contact</span> Us</h2>
+         
+        <p class="contact_info"> <span>Address:</span> Ganesh Meridian, Kargil Petrol Pump, S.G Highway, Ahmedabad<br />
+          <span>Telephone:</span> 8469410000<br />
+          <span>FAX:</span> 458-4578<br />
+          <span>Others:</span> 301 - 0125 - 111<br />
+          <span>E-mail:</span> <a href="#"> alumniation@gmail.com</a> </p>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+  <div class="footer">
+    <div class="footer_resize">
+      <p class="lf">Copyright &copy; <a href="#">GNU ALUMNI ASSOCIATION</a>. All Rights Reserved</p>
+      <p class="rf">Design & Developed by Nishit Tated</p>
+      <div style="clear:both;"></div>
+    </div>
+  </div>
+</div>
+
+        </form>
+</body>
+</html>
+

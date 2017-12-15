@@ -1,0 +1,49 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="OldRegister.master.cs" Inherits="OldRegister" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+<title>Alumni Association</title>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder2" runat="server">
+    </asp:ContentPlaceHolder>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="css/coin-slider.css" />
+<script type="text/javascript" src="js/cufon-yui.js"></script>
+<script type="text/javascript" src="js/cufon-georgia.js"></script>
+<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+<script type="text/javascript" src="js/coin-slider.min.js"></script>
+</head>
+<body>
+    <form id="form2" runat="server">
+    
+<div class="main">
+  <div class="header">
+    <div class="header_resize">
+      <div class="menu_nav">
+        <ul>
+          <li class="active"><a href="AlumniHome.aspx"><span>Notice Board</span></a></li>
+          <li><a href="Event1.aspx"><span>Events</span></a></li>
+          <li><a href="Job.aspx"><span>Jobs</span></a></li>
+         
+          <li><a href="OldRegister1.aspx"><span>Alumni Registration</span></a></li>
+          
+        </ul>
+      </div>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        
+        <br />
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        </form>
+</body>
+    </html>
