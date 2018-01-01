@@ -1,5 +1,5 @@
 ﻿ <%@ Page Language="C#" AutoEventWireup="true" CodeFile="Job.aspx.cs" Inherits="Job" %>
-
+ 
 
  <!DOCTYPE html> <html xmlns="http://www.w3.org/1999/xhtml">  
      <head>  <link rel="canonical" href="https://www.naukri.com/browse-jobs"/> 
