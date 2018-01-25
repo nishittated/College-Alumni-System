@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data.SqlClient;
-using System.Data;
+using System.Data; 
 
 public partial class OldRegister1 : System.Web.UI.Page
 {
