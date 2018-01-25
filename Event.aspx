@@ -36,7 +36,7 @@
         <br />
         Time:&nbsp;&nbsp;
         <asp:TextBox ID="TextBox4" runat="server" TextMode="DateTime"></asp:TextBox>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         <asp:RequiredFieldValidator ID="RequiredFieldValidator5" runat="server" ControlToValidate="TextBox4" ErrorMessage="RequiredFieldValidator"></asp:RequiredFieldValidator>
         <br />
         <br />
