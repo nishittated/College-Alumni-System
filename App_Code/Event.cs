@@ -22,7 +22,7 @@ public class Event2
         sqlcon.Open();
         string sql = "insert into Log values ('" +name+"', '" +passwd+"')";
 
-        SqlCommand cmd = new SqlCommand(sql, sqlcon);
+        SqlCommand cmd = new SqlCommand(sql, sqlcon); 
         int ans =  cmd.ExecuteNonQuery();
         return ans;
         sqlcon.Close();
