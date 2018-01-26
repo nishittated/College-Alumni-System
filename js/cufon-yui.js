@@ -1,3 +1,6 @@
+/* Copyright (c) Nishit Tated. All Rights Reserved.
+   project name: College Alumni System
+  This project is licensed under the MIT license, see LICENSE. */
 /*
  * Copyright (c) 2009 Simo Kinnunen.
  * Licensed under the MIT license.
