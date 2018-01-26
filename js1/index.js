@@ -1,3 +1,6 @@
+/* Copyright (c) Nishit Tated. All Rights Reserved.
+   project name: College Alumni System
+  This project is licensed under the MIT license, see LICENSE. */
 $( document ).ready(function() {
   var userInput = $('#username-input'),
       userWrap = $('.username-wrap'),
