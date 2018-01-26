@@ -1,4 +1,7 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Login.aspx.cs" Inherits="Login" %>
+<%--Copyright (c) Nishit Tated. All Rights Reserved.
+   project name: College Alumni System
+  This project is licensed under the MIT license, see LICENSE.--%>
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Login.aspx.cs" Inherits="Login" %>
 
 <!DOCTYPE html>
 
