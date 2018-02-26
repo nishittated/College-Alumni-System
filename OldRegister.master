@@ -1,5 +1,5 @@
 <%--Copyright (c) Nishit Tated. All Rights Reserved.
-   project name: College Alumni System
+   project name: College Alumni System   
   This project is licensed under the MIT license, see LICENSE.--%>
 <%@ Master Language="C#" AutoEventWireup="true" CodeFile="OldRegister.master.cs" Inherits="OldRegister" %>
 
