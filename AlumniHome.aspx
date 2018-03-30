@@ -7,7 +7,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
-    <div>
+    <div> 
             <fieldset style ="width:220px;">
                 <legend>Count website visited and Online users</legend>   
         <asp:Label ID="lblSiteVisited" runat="server" Text=""  style="color: #FFFFFF; background-color: #3366FF"></asp:Label><br />
