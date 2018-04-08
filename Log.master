@@ -3,7 +3,7 @@
   This project is licensed under the MIT license, see LICENSE.--%>
 <%@ Master Language="C#" AutoEventWireup="true" CodeFile="Log.master.cs" Inherits="Log" %>
 
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
   <meta charset="UTF-8">
