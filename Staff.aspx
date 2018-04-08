@@ -3,7 +3,7 @@
   This project is licensed under the MIT license, see LICENSE. --%>
 <%@ Page Language="C#" AutoEventWireup="true" CodeFile="Staff.aspx.cs" Inherits="Staff" %>
 
-<!DOCTYPE html>
+<!DOCTYPE html> 
  
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
