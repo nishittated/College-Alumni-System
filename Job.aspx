@@ -3,8 +3,8 @@
   This project is licensed under the MIT license, see LICENSE.--%>
 <%@ Page Language="C#" AutoEventWireup="true" CodeFile="Job.aspx.cs" Inherits="Job" %>
  
-
- <!DOCTYPE html> <html xmlns="http://www.w3.org/1999/xhtml">  
+ 
+ <!DOCTYPE html> <html xmlns="http://www.w3.org/1999/xhtml">   
      <head>  <link rel="canonical" href="https://www.naukri.com/browse-jobs"/> 
            <meta charset="UTF-8" /> 
          <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
