@@ -15,7 +15,7 @@
 </head>
 <body>
 <div class="main">
-  <div class="header">
+  <div class="header"> 
     <div class="header_resize">
       <div class="menu_nav">
         <ul>
