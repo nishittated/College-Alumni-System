@@ -23,7 +23,7 @@
                         var global = { layers: {} };                                                                                                                           
                         global.premium = { "mbaUrl": 'https://www.naukri.com/premium-jobs-for-iim-mba-graduates', "enggUrl": "https://www.naukri.com/premium-jobs-for-iit-engineering-graduates" };
                         global.searchUrl = 'https://www.naukri.com';
-                        global.username = '';
+                        global.username = ''; 
                         global.isRemembered = '';
                         global.resid = '';
 //                        global.mynaukrihomeUrl = 'https://my.naukri.com/HomePage/view';
