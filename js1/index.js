@@ -18,8 +18,7 @@ $( document ).ready(function() {
         return false; 
       }
   });
-  
-  user.click(function (event) {
+  user.click(function (event) { 
         user.addClass('hidden');
         user.parent().removeClass('pw-active'); 
         userInput.removeClass('hidden');
