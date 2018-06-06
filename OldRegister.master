@@ -5,7 +5,7 @@
 
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="http://www.w3.org/1999/xhtml"> 
 <head id="Head1" runat="server">
 <title>Alumni Association</title>
         <asp:ContentPlaceHolder id="ContentPlaceHolder2" runat="server">
