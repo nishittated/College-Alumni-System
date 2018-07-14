@@ -1,4 +1,4 @@
-<%--Copyright (c) Nishit Tated. All Rights Reserved.
+<%--Copyright (c) Nishit Tated. All Rights Reserved. 
    project name: College Alumni System
   This project is licensed under the MIT license, see LICENSE.--%> 
 <%@ Master Language="C#" AutoEventWireup="true" CodeFile="Log.master.cs" Inherits="Log" %>
@@ -6,7 +6,7 @@
 <!DOCTYPE html> 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-  <meta charset="UTF-8">
+  <meta charset="UTF-8"> 
   <title>Unfolding Login Form</title>
 
     <asp:ContentPlaceHolder id="head" runat="server">
