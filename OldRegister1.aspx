@@ -1,6 +1,6 @@
 <%--Copyright (c) Nishit Tated. All Rights Reserved. 
    project name: College Alumni System
-  This project is licensed under the MIT license, see LICENSE.--%>
+  This project is licensed under the MIT license, see LICENSE.--%> 
 <%@ Page Title="" Language="C#" MasterPageFile="~/OldRegister.master" AutoEventWireup="true" CodeFile="OldRegister1.aspx.cs" Inherits="OldRegister1" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder2" Runat="Server">
